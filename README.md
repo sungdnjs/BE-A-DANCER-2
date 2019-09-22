@@ -21,5 +21,5 @@ assets파일 :
 		    nowscore_hart : BodySourceView에서 계산한 점수 정보를 이용해서 에너지 바 구현\
 		    scoremanager : 게임이 끝난 후 최종 점수 디스플레이\
 	  	    song_id : 어떤 노래를 선택하느냐에 따라서 노래의 번호를 정해줘서 각 노래에 맞는 데이터를 이용할 수 있도록 함\
-  		    viewpoint : 버튼이 클릭하는 시점부터 프레임을 비교해서 동기를 맞춤\
+  		    viewpoint : 버튼이 클릭하는 시점부터 프레임을 비교해서 동기를 맞춤
   
