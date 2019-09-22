@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 3b7fde72d188ce94fb866630cc797982
+timeCreated: 1541324918
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - spinemid: {instanceID: 0}
+  - neck: {instanceID: 0}
+  - elbowleft: {instanceID: 0}
+  - wristleft: {instanceID: 0}
+  - elbowright: {instanceID: 0}
+  - wristright: {instanceID: 0}
+  - kneeleft: {instanceID: 0}
+  - ankleleft: {instanceID: 0}
+  - kneeright: {instanceID: 0}
+  - ankleright: {instanceID: 0}
+  - test: {fileID: 4900000, guid: 36a84f0282ae6c941a5aa9cddf833d19, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
